@@ -13,7 +13,7 @@
 » Express js <br>
 » MongoDB <br>
 » Tailwind Css <br>
-» Firebase auth <br>
+» Firebase <br>
 » React JS
 
 <h2>Screenshots of the Project 📸</h2>
