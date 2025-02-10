@@ -5,7 +5,7 @@
 <p>A <b>Real state web app with Mern stack</b> where users can sell and rent any property and contact the seller.</p>
 
 
-👉 Live Demo: <a href='#'>Live Demo</a>
+
 
 <h3>Build with:</h3>
 
